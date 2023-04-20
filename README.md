@@ -1,15 +1,7 @@
 # No-Shy-Polecat
-First exercises with Pyhton and Solace.
-
-There you have the anagram input (thanks https://new.wordsmith.org/anagram/), leading to No Shy Polecat! Nice match with the otter, the overall Soalce mascotte.
+First exercises with Solace / Python -> which is the anagram input (thanks https://new.wordsmith.org/anagram/), leading to No Shy Polecat! Nice match with the otter, the overall Solace mascotte.
 
 The European Polecat https://en.wikipedia.org/wiki/European_polecat
-
-# Links
-https://docs.solace.com/API/Messaging-APIs/Python-API/python-home.htm
-https://tutorials.solace.dev/python
-https://github.com/SolaceSamples/solace-samples-python
-https://pypi.org/project/solace-pubsubplus/
 
 # Test
 
@@ -33,6 +25,20 @@ Traceback (most recent call last):
 OSError: dlopen(/Users/emilzegers/Library/Python/3.9/lib/python/site-packages/solace/messaging/lib/macosx-x86_64/libsolclient.dylib, 0x0006): tried: '/Users/emilzegers/Library/Python/3.9/lib/python/site-packages/solace/messaging/lib/macosx-x86_64/libsolclient.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64')), '/System/Volumes/Preboot/Cryptexes/OS/Users/emilzegers/Library/Python/3.9/lib/python/site-packages/solace/messaging/lib/macosx-x86_64/libsolclient.dylib' (no such file), '/Users/emilzegers/Library/Python/3.9/lib/python/site-packages/solace/messaging/lib/macosx-x86_64/libsolclient.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64'))
 ````
 
-# arm
+# Todo
+
+Architecture
+
 https://stackoverflow.com/questions/58346120/how-to-cross-compile-a-single-python-library-for-arm
+
 https://stackoverflow.com/questions/70925516/compile-python-modules-for-arm64-architecture
+
+# Links
+https://docs.solace.com/API/Messaging-APIs/Python-API/python-home.htm
+
+https://tutorials.solace.dev/python
+
+https://github.com/SolaceSamples/solace-samples-python
+
+https://pypi.org/project/solace-pubsubplus/
+
