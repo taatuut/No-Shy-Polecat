@@ -5,7 +5,7 @@ The European Polecat https://en.wikipedia.org/wiki/European_polecat
 
 # Test
 
-Intalled the solace-pubsubplus Python module with `python3 -m pip install solace-pubsubplus`.
+Installed the solace-pubsubplus Python module with `python3 -m pip install solace-pubsubplus`.
 
 Running script `MessagingService.py` errors (see below) because of arm architecture of my MacBook Pro M2.
 
